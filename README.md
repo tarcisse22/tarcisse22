@@ -1,16 +1,33 @@
-## Hi there 👋
+<a href="https://tarcisse-dev.vercel.app/"><img src="https://tarcisse-dev.vercel.app/og.png" alt="Tarcisse Ndjibu — software engineer" width="100%"></a>
 
-<!--
-**tarcisse22/tarcisse22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey, I'm Tarcisse 👋
 
-Here are some ideas to get you started:
+I build things for real people — a shop owner tracking inventory, a trainer running their business, someone looking for the right song for their mood.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Science @ **Georgia State University** (class of '27) · State Farm Scholar
+- 🤖 **AI Trainer @ Handshake AI** — designing Terminal-Bench tasks that test AI agents on real technical work
+- 🎵 Building **[vibe](https://vibe-app-gray.vercel.app)**, a mood-based music app launching July 2027
+- 🔎 Looking for a **software engineering internship** for summer 2027
+- ⚽ Off the clock: soccer first, then the NFL and baseball
+
+> I use AI to help me build, but I hold one rule: understand every line it writes.
+
+### Things I've built
+
+| Project | What it is | Stack | Links |
+|---|---|---|---|
+| **vibe** | Mood-based music app — pick a mood, get a playlist | Next.js · Supabase · Spotify API | [live](https://vibe-app-gray.vercel.app) |
+| **Auto Shop Inventory** | Inventory site for a local auto shop with owner-only admin | React · Vite · Firebase | [live](https://auto-shop-frontend-zeta.vercel.app) · [code](https://github.com/tarcisse22/Auto-Shop-frontend) |
+| **Healing by Ali** | Client site for a training & recovery business | Next.js · TypeScript · Upstash Redis | [live](https://healing-by-ali.vercel.app) · [code](https://github.com/tarcisse22/healing-by-ali) |
+
+### Toolkit
+
+`Python` `JavaScript` `TypeScript` `Java` `C` `SQL` `Bash`
+`React` `Next.js` `Node.js` `Tailwind CSS` `Vite`
+`Supabase` `PostgreSQL` `Firebase` `Vercel` `Docker` `Git` `Linux`
+
+### Find me
+
+[Portfolio](https://tarcisse-dev.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/tarcisse-ndjibu-5a0438294/) · [Email](mailto:ndjibutarcisse@gmail.com)
+
+<sub>"Don't watch the clock; do what it does. Keep going." — Sam Levenson</sub>
