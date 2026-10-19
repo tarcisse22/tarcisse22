@@ -2,11 +2,11 @@
 
 ### Hey, I'm Tarcisse 👋
 
-I build things for real people — a shop owner tracking inventory, a trainer running their business, someone looking for the right song for their mood.
+I build things for real people — a shop owner tracking inventory, a trainer running their business, a student trying to beat procrastination.
 
 - 🎓 Computer Science @ **Georgia State University** (class of '27) · State Farm Scholar
 - 🤖 **AI Trainer @ Handshake AI** — designing Terminal-Bench tasks that test AI agents on real technical work
-- 🎵 Building **[vibe](https://vibe-app-gray.vercel.app)**, a mood-based music app launching July 2027
+- 🎯 Building **[FOCUS](https://github.com/tarcisse22/FOCUS)**, a productivity app that helps students beat procrastination
 - 🔎 Looking for a **software engineering internship** for summer 2027
 - ⚽ Off the clock: soccer first, then the NFL and baseball
 
@@ -16,7 +16,6 @@ I build things for real people — a shop owner tracking inventory, a trainer ru
 
 | Project | What it is | Stack | Links |
 |---|---|---|---|
-| **vibe** | Mood-based music app — pick a mood, get a playlist | Next.js · Supabase · Spotify API | [live](https://vibe-app-gray.vercel.app) |
 | **FOCUS** | Productivity app for students who procrastinate — courses, PDFs, 5-minute focus sessions, XP & streaks, flashcards | React · TypeScript · Supabase · Tailwind | [code](https://github.com/tarcisse22/FOCUS) |
 | **Auto Shop Inventory** | Inventory site for a local auto shop with owner-only admin | React · Vite · Firebase | [live](https://auto-shop-frontend-zeta.vercel.app) · [code](https://github.com/tarcisse22/Auto-Shop-frontend) |
 | **Healing by Ali** | Client site for a training & recovery business | Next.js · TypeScript · Upstash Redis | [live](https://healing-by-ali.vercel.app) · [code](https://github.com/tarcisse22/healing-by-ali) |
