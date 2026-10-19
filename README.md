@@ -17,6 +17,7 @@ I build things for real people — a shop owner tracking inventory, a trainer ru
 | Project | What it is | Stack | Links |
 |---|---|---|---|
 | **vibe** | Mood-based music app — pick a mood, get a playlist | Next.js · Supabase · Spotify API | [live](https://vibe-app-gray.vercel.app) |
+| **FOCUS** | Productivity app for students who procrastinate — courses, PDFs, 5-minute focus sessions, XP & streaks, flashcards | React · TypeScript · Supabase · Tailwind | [code](https://github.com/tarcisse22/FOCUS) |
 | **Auto Shop Inventory** | Inventory site for a local auto shop with owner-only admin | React · Vite · Firebase | [live](https://auto-shop-frontend-zeta.vercel.app) · [code](https://github.com/tarcisse22/Auto-Shop-frontend) |
 | **Healing by Ali** | Client site for a training & recovery business | Next.js · TypeScript · Upstash Redis | [live](https://healing-by-ali.vercel.app) · [code](https://github.com/tarcisse22/healing-by-ali) |
 
