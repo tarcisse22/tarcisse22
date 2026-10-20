@@ -2,7 +2,7 @@
 
 ### Hey, I'm Tarcisse 👋
 
-I build things for real people — a shop owner tracking inventory, a trainer running their business, a student trying to beat procrastination.
+I build software that solves everyday problems — from tools that help small businesses run better to apps that help students get things done.
 
 - 🎓 Computer Science @ **Georgia State University** (class of '27) · State Farm Scholar
 - 🤖 **AI Trainer @ Handshake AI** — designing Terminal-Bench tasks that test AI agents on real technical work
